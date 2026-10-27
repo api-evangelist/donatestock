@@ -64,5 +64,24 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-DonateStock is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://donatestock.com/
+DonateStock is a platform that enables donors to contribute publicly traded stock, cryptocurrency, and other assets to charitable organizations quickly and tax-efficiently. By allowing donors to avoid capital gains tax and receive larger deductions, it benefits both donors and nonprofits. The service also offers tools for financial advisors and donors to manage charitable giving, featuring a marketplace of causes, educational resources, and a secure transaction process.
+
+**Areas:** Company · Finance · Charity · Stock · Donations · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://donatestock.com/)
+- [Documentation](https://help.donatestock.com/)
+- [Support](https://help.donatestock.com/en-US)
+- [Blog](https://donatestock.com/blog)
+- [Security](https://donatestock.com/security)
+- [Compliance](https://donatestock.com/security)
+- [Privacy policy](https://donatestock.com/privacy-policy)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/donatestock/](https://apis.io/providers/donatestock/).
